@@ -1,5 +1,5 @@
 # Edge Functions
 
-## `/api/og?title=<title>`
+## og 画像自動生成
 
-og 画像自動生成
+https://edge-functions-sable.vercel.app/api/og?title=<title>
